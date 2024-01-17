@@ -1,3 +1,9 @@
+
+ <div>
+   <img src="https://github.com/ErickPonceLIV/ErickPonceLIV/blob/main/erick%20ponce%20liv.png">
+  </div>
+
+
 Hello there! 👋 I'm ErickPonceLIV, and I'm thrilled to welcome you to my GitHub repository. Here's a bit about me:
 
 🎮 Gaming Enthusiast
