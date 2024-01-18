@@ -7,7 +7,7 @@
 <body>
  <div>
    <img src="https://github.com/ErickPonceLIV/ErickPonceLIV/blob/main/erick%20ponce%20liv.png">
-  </div
+ </div>
 </body>
 </html>
 
