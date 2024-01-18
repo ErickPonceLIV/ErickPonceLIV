@@ -11,7 +11,8 @@
 </body>
 </html>
 
-
+<em> English </em> 
+<br> 
 
 Hello there! 👋 I'm ErickPonceLIV, and I'm thrilled to welcome you to my GitHub repository. Here's a bit about me:
 
@@ -31,3 +32,26 @@ Get in Touch
 I'm always open to collaboration, feedback, and connecting with like-minded individuals. Feel free to reach out, whether it's about code, gaming, education, or anything in between. Let's build, learn, and have some fun along the way!
 
 Happy coding and gaming! 🚀🎮
+
+<em> Español </em> 
+<br>
+
+Sobre Mí
+¡Hola! 👋 Soy ErickPonceLIV, y estoy emocionado de darte la bienvenida a mi repositorio de GitHub. Aquí tienes un poco sobre mí:
+
+🎮 Entusiasta de los Videojuegos
+Soy un apasionado gamer que encuentra alegría explorando mundos virtuales, dominando estrategias intrincadas y compartiendo experiencias de juego con la comunidad. Si tienes alguna recomendación de juegos o deseas discutir los últimos lanzamientos, ¡no dudes en ponerte en contacto!
+
+📚 Pedagogo en Tecnología
+Me comprometo profundamente con el mundo de la educación, con un enfoque particular en la tecnología. Como pedagogo en el espacio tecnológico, me encanta encontrar formas innovadoras de hacer que los conceptos complejos sean más accesibles y divertidos para los aprendices. Ya sea programación, desarrollo de software o fundamentos de TI, creo que el aprendizaje debe ser una experiencia dinámica y atractiva.
+
+🎓 Temas Educativos
+A menudo encontrarás que mis proyectos giran en torno a temas educativos. Me apasiona crear herramientas y recursos que empoderen a otros para ampliar sus conocimientos de manera divertida e interactiva. Si compartes un interés similar en la intersección entre la educación y la tecnología, me encantaría colaborar e intercambiar ideas.
+
+🎲 Fan de los Juegos de Mesa
+Más allá del ámbito digital, también soy fanático de los juegos de mesa. Hay algo especial en reunir a amigos y familia alrededor de una mesa para una noche de estrategia, risas y competencia amistosa. Si tienes algún juego de mesa favorito o buscas recomendaciones, ¡hablemos!
+
+Ponte en Contacto
+Siempre estoy abierto a la colaboración, comentarios y conexión con personas afines. No dudes en ponerte en contacto, ya sea sobre código, juegos, educación o cualquier cosa intermedia. ¡Vamos a construir, aprender y divertirnos en el camino!
+
+¡Feliz codificación y juego! 🚀🎮
