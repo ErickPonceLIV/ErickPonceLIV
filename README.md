@@ -5,28 +5,9 @@
  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-
  <div>
    <img src="https://github.com/ErickPonceLIV/ErickPonceLIV/blob/main/erick%20ponce%20liv.png">
   </div
-
-<div class="social-buttons">
-  <a href="https://www.facebook.com/LIONSUN.93/" target="_blank" class="social-button">
-    <img src="https://cdn-icons-png.flaticon.com/256/20/20673.png" alt="Facebook Logo">
-    Facebook
-  </a>
-
-  <a href="https://www.instagram.com/erick_ponceliv/" target="_blank" class="social-button">
-    <img src="https://s1.pngtank.com/thumbnails/63c1579293788.png" alt="Instagram Logo">
-    Instagram
-  </a>
-
-  <a href="https://www.linkedin.com/in/erickrpj/l" target="_blank" class="social-button">
-    <img src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-linkedin-512.png" alt="LinkedIn Logo">
-    LinkedIn
-  </a>
-</div>
-
 </body>
 </html>
 
